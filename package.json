@@ -1,0 +1,15 @@
+{
+  "name": "crud-express",
+  "version": "1.0.0",
+  "description": "CRUD example using express for NodeJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Guilherme R Rosa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
